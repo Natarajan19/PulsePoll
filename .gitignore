@@ -1,0 +1,14 @@
+# Environment / secrets
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Node
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Go
+**/*.exe
+**/*.test
+**/tmp/
